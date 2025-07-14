@@ -1,0 +1,65 @@
+================================================================================
+USER PERSONA: HUNGRY-MOVE-6603
+================================================================================
+
+BASIC INFORMATION
+----------------------------------------
+AGE:           18-25
+OCCUPATION:    Student
+STATUS:        Single
+LOCATION:      Unknown
+
+PERSONALITY TRAITS
+----------------------------------------
+INTROVERT ██████░░░░ EXTROVERT
+INTUITION ████░░░░░░ SENSING
+FEELING   ███████░░░ THINKING
+PERCEIVING████████░░ JUDGING
+
+CHARACTERISTICS:
+• Helpful
+• Enthusiastic
+
+MOTIVATIONS
+----------------------------------------
+Wellness        ████████░░ (80%)
+Convenience     ██████░░░░ (60%)
+Dietary Needs   ███████░░░ (70%)
+Preferences     █████░░░░░ (50%)
+
+BEHAVIOUR & HABITS
+----------------------------------------
+• Active in r/food community with 18 posts/comments
+  Citation: Active in r/food subreddit
+• Active in r/fitness community with 14 posts/comments
+  Citation: Active in r/fitness subreddit
+• Active in r/askreddit community with 12 posts/comments
+  Citation: Active in r/askreddit subreddit
+• Occasional poster - shares content sometimes
+• Regular commenter - participates in community discussions
+
+FRUSTRATIONS
+----------------------------------------
+• Lack of clear information or instructions
+  Citation: Post ID ghi789
+• Time-wasting processes and delays
+  Citation: Post ID jkl012
+
+GOALS & NEEDS
+----------------------------------------
+• Maintain a healthy lifestyle and fitness routine
+  Citation: Comment ID mno345
+• Continue learning and skill development
+  Citation: Comment ID pqr678
+• Achieve financial stability and smart money management
+  Citation: Comment ID stu901
+
+REPRESENTATIVE QUOTE
+----------------------------------------
+"Been trying to meal prep for the week but it's so hard to find healthy recipes that don't take forever to make. Any suggestions for quick but nutritious meals?"
+Source: Comment ID: mno345
+
+================================================================================
+Analysis completed on 2025-01-27 15:30:45
+Based on 23 posts and 89 comments
+================================================================================
